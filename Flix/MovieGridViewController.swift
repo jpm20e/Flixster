@@ -6,9 +6,13 @@
 //
 
 import UIKit
+import AlamofireImage
 
-class MovieGridViewController: UIViewController {
+class MovieGridViewController: UIViewController{
+    
+    
 
+    @IBOutlet weak var collectionView: UICollectionView!
     
     
     
