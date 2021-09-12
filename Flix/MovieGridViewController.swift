@@ -32,7 +32,7 @@ class MovieGridViewController: UIViewController {
                 
              }
         }
-        //Hello
+    
         
         task.resume()
     }
